@@ -1,0 +1,1 @@
+$env:Path = "C:\msys64\ucrt64\bin;E:\CSE ALL LAB Work\CSE 4202\Computer Graphics\vscodefilecse4202\freeglut\bin\x64;$env:Path"
